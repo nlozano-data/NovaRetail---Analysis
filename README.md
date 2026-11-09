@@ -208,4 +208,11 @@ However, these results also highlight the importance of going beyond correlation
 **Environment:** Google Colab  
 **Year of dataset:** 2024  
 
+👩‍💻 Author
+
+Developed & Analyzed by Nicole A. Lozano Lurduy
+Data Analyst | Python | Statistical Analysis | Business Intelligence
+
+Transforming data into insights, and insights into strategic decisions.
+
 *Developed as part of a Data Analytics learning portfolio.*
